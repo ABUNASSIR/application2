@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family:"courrier new",courrier,monospace;
+  background-color: #b61924;
+	
+}
+
+button {
+	cursor: pointer;
+}
